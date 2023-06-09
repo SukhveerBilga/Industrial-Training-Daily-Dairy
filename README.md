@@ -3,8 +3,8 @@
 # TRAINING Daily Blog :point_down:
 All about the six month training of Full Stack Web Development (MERN) at Excellence Technology, Mohali
 
- ## :arrow_right: *Week 1 (23/01/2023 to 27/01/2023)*
-### Introduction to Web Development
+ ## :arrow_right: *Week 1 (23/01/2023 - 27/01/2023)*
+### INTRO TO WEB DEVELOPMENT
 
 
 - WHAT IS WEB DEVELOPMENT?
@@ -39,7 +39,7 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - HTML DIVS
 
 
-## :arrow_right: *Week 2 (30/01/2023 to 3/02/2023)*
+## :arrow_right: *Week 2 (30/01/2023 - 3/02/2023)*
 
 ### CSS - PART 1
 
@@ -50,18 +50,34 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - PROJECT 1 - TO-DO APP-FRONTEND USING BASIC HTML/CSS
 
 
-### CSS - PART 2
+### CSS - PART 2 | Advanced CSS 1
+
+- CSS BACKGROUNDS, BORDERS, MARGINS, PADDING
+- CSS FONT STYLING
+- STYLINGS LISTS , TABLES, FORMS
+- GRADIENTS , FONT AWESOME
 
 
-###
+## :arrow_right: *Week 3 (6/02/2023 - 10/02/2023)*
+
+### BOOTSTRAP – PART 1
 
 
-## :arrow_right: *DAY 3 (21/07/2022)*
+- BOOTSTRAP CONTAINERS
+- TABLES, IMAGES, COLORS
+- ALERTS, BUTTONS
+- SPINNERS, CARDS
 
 
-- Went on to the frappe framework offficial page and headed with the  installation process and kept on recovering the erros. 
-- This activity took about 2 days.then we found another souces fro teh installation of the framework because theh version of the linux was not compactable with the official instructions. 
-- The then used instructionn manual was(https://github.com/D-codE-Hub/Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS) for the proper installation of the later.
+### BOOTSTRAP – PART 2
+
+
+- PAGINATION, DROP DOWN
+- CAROUSEL
+- TO-DO APP – DEVELOP TO-DO APP FRONTEND USING BOOTSTRAP
+- GITHUB OVERVIEW
+
+.
 
 
 ##  :arrow_right: *DAY 4/DAY 5 (22/07/2022 - 23/072022)*
