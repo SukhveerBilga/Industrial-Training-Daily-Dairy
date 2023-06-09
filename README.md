@@ -52,6 +52,9 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - PROJECT 1 - TO-DO APP-FRONTEND USING BASIC HTML/CSS
 
 
+### CSS - PART 2
+
+
 ###
 
 
