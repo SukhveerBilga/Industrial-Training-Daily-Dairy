@@ -39,8 +39,6 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - HTML DIVS
 
 
-
-
 ## :arrow_right: *Week 2 (30/01/2023 to 3/02/2023)*
 
 ### CSS - PART 1
