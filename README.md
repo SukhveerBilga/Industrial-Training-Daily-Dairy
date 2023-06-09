@@ -4,7 +4,7 @@
 All about the six month training of Full Stack Web Development (MERN) at Excellence Technology, Mohali
 
  ## :arrow_right: *Week 1 (23/01/2023 to 27/01/2023)*
-### *Introduction to Web Development*
+### Introduction to Web Development
 
 
 - WHAT IS WEB DEVELOPMENT?
@@ -17,7 +17,7 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 
 
 
-### *HTML - PART 1
+### HTML - PART 1
 
 - WHAT IS HTML?
 - STRUCTURE OF WEBPAGE
@@ -29,14 +29,30 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - FORMS
 
 
+### HTML - PART 2
+
+
+- LINKS
+- TABLES
+- IFRAMES, VIDEOS
+- ANCHOR TAGS
+- HTML DIVS
+
+
+
 
 ## :arrow_right: *Week 2 (30/01/2023 to 3/02/2023)*
 
-### *HTML - PART 2
+### CSS - PART 1
+
+- CSS INTRODUCTION
+- INLINE VS INTERNAL VS EXTERNAL
+- STYLING
+- CSS DISPLAY
+- PROJECT 1 - TO-DO APP-FRONTEND USING BASIC HTML/CSS
 
 
-- Read about the frappe framework, its functionalities and advantage along with its installation process.
-- Beside that looked over the lamp that was told to install earlier.
+###
 
 
 ## :arrow_right: *DAY 3 (21/07/2022)*
