@@ -126,86 +126,141 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 ES5 VS ES6 VS ES7
 EVENT LOOP IN JAVASCRIPT
 
-#### Monthly Evaluation - 2
+
+
+### MONTHLY EVALUATION -2
 
 
 
 
-##  :arrow_right: *DAY 10 (28/07/2022)*
+##  :arrow_right: *Week 9 (20/03/2023 - 24/03/2023)*
+
+### REACT – PART 1
 
 
-- Today i am completed the frappe Library Management and view the articles and articles list on web pages.
-- Now i am starting the work to make the webpage to show the students list, mentor list & students mentor list by searching student name and mentor name. 
+- REACT INTRO
+- INSTALL NODE
+- CREATE AN APP USING CREATE-REACT-APP
+- UNDERSTANDING BASICS OF REACT APP
+- UNDERSTANDING JSX
+- UNDERSTANDING VIRTUAL DOMS, SINGLE PAGE APPS
 
 
-## :arrow_right: *DAY 11 (29/07/2022)*
+##  :arrow_right: *Week 10 (27/03/2023 - 31/03/2023)*
+
+### REACT – PART 2
+
+- REACT LIFECYCLE
+- STATES
+- CLASS COMPONENTS VS FUNCTIONS COMPONENTS
+- EVENT HANDLING
+- PROPS
+- BUILDING A BASIC FORMS USING REACT
+- PROJECT 4 – BUILD BLOG USING REACT
 
 
-- Full review on library management system
-- Reading Guidelines for official email methods.
+##  :arrow_right: *Week 11 (03/04/2023 - 07/04/2023)*
+
+### REACT – PART 3
+
+- ROUTES
+- CONDITIONAL RENDERING
+- PURE COMPONENTS
+- HIGH ORDER COMPONENTS
+-CONTROLLED VS UNCONTROLLED COMPONENTS
 
 
-## :arrow_right: *DAY 12/13 (30/07/2022 - 31/07/2022)*
+
+##  :arrow_right: *Week 12 (10/04/2023 - 14/04/2023)*
+
+### REACT – PART 4
+
+- REDUX
+- ADD REDUX IN A PROJECT
 
 
-Saturday - Sunday (Off)
+
+### MONTHLY EVALUATION - 3
 
 
 
-## :arrow_right: *DAY 13 (01/08/2022)*
+##  :arrow_right: *Week 13 (17/04/2023 - 21/04/2023)*
+
+### NODE.JS – PART 1
+
+- INSTALL NODE.JS ON WINDOWS
+- WORKING IN REPL
+- NODE JS CONSOLE
+
+### NODE.JS – PART 2
+
+- FUNCTIONS
+- BUFFER
+- MODULE
+- MODULE TYPES
+- CORE MODULES
+- LOCAL MODULES
+- MODULE.EXPORTS
+
+##  :arrow_right: *Week 14 (24/04/2023 - 28/04/2023)*
 
 
-- Got the task of making Financial system in erp.gndec.ac.in
-- Took two more members suggested by sir (Raghav,Simran)
-- Started work on this from this day.
+### NODE.JS – PART 3
+
+- WHAT IS NPM
+- INSTALLING PACKAGES LOCALLY
+- ADDING DEPENDENCY IN PACKAGE.JSON
+- INSTALLING PACKAGES GLOBALLY
+- UPDATING PACKAGES
+
+### NODE.JS – PART 4
+
+- CREATING WEB SERVER
+- HANDLING HTTP REQUESTS
+- SENDING REQUESTS
+
+##  :arrow_right: *Week 15 (01/05/2023 - 05/05/2023)*
+
+### NODE.JS – PART 5
+
+- SIMPLE SERVER
+- RESPONSE TYPES – HTML, JSON
+- ROUTING
+- EXPRESS INTRO
+- MAKE A CALL FROM FRONTEND TO SERVER
+- PROJECT 4 – CREATE API TO FETCH BLOGS FROM DB
+
+##  :arrow_right: *Week 16 (08/05/2023 - 12/05/2023)*
 
 
-## :arrow_right: *DAY 14 (02/08/2022)*
+### NODE.JS – PART 6
+
+- EXPRESS PARAMS AND QUERY STRING
+- PROJECT 4 – ADD API TO BLOG APP
 
 
-- Understand the full structure of (erp.gndec.ac.in)
-- Solve the error of team-mates regarding mysql
-- Install ubuntu on team-mate system
+### MONTHLY EVALUATION - 4
 
 
-## :arrow_right: *DAY 15 (03/08/2022)*
+##  :arrow_right: *Week 17 (15/05/2023 - 19/05/2023)*
+
+### DATABASE – PART 1
+
+- SQL VS NO SQL
+- MONGODB OVERVIEW
+- INSTALLING MONGODB
+- CONNECTING AND INSERTING DATA
+- UPLOAD / MODIFY TESTS OF
+- ONLINE QUIZ SYSTEM USING DYNAMODB
 
 
-- Install Conda and create virtual environment
-- INstall Python  -V 3.8.1
-- Install bench   -V 5.8.1
-- Install Frappe  -V 13.23.0
-- Install Erpnext -V 13
+##  :arrow_right: *Week 17 (22/05/2023 - 26/05/2023)*
 
 
-## :arrow_right: *DAY 16 (04/08/2022)*
+### DATABASE – PART 2
+
+- DELETING AND UPDATING DATA
+- CRUD
+- WRITE FUNCTIONS TO ADD/UPDATE A BLOG
 
 
-- Reading Education Domain with fully understanding
-
-### Setup :
-
-
-- Program
-- Course
-- Topic
-- Instructor
-- Room
-- Student Category
-- Acadmic Term
-- Acadmic year
-- Education Settings
-
-
-## :arrow_right: *DAY 17 (05/08/2022)*
-
-
-- Implement education domain in test server (gne11.gndec.ac.in)
-- Create Programs, Courses
-- Allot room according to course, Programs and So on.
-
-
-## :arrow_right: *DAY 18 (06/08/2022)*
-
-
-- Today seminar off because I have to prepare for Infosys Exam
