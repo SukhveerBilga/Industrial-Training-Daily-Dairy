@@ -39,7 +39,7 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - HTML DIVS
 
 
-## :arrow_right: *Week 2 (30/01/2023 - 3/02/2023)*
+## :arrow_right: *Week 2 (30/01/2023 - 03/02/2023)*
 
 ### CSS - PART 1
 
@@ -58,7 +58,7 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - GRADIENTS , FONT AWESOME
 
 
-## :arrow_right: *Week 3 (6/02/2023 - 10/02/2023)*
+## :arrow_right: *Week 3 (06/02/2023 - 10/02/2023)*
 
 ### BOOTSTRAP – PART 1
 
@@ -69,6 +69,9 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - SPINNERS, CARDS
 
 
+
+##  :arrow_right: *Week 4 (13/02/2023 - 17/02/2023)*
+
 ### BOOTSTRAP – PART 2
 
 
@@ -77,38 +80,55 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - TO-DO APP – DEVELOP TO-DO APP FRONTEND USING BOOTSTRAP
 - GITHUB OVERVIEW
 
-.
+### MONTHLY EVALUATION -1
 
 
-##  :arrow_right: *DAY 4/DAY 5 (22/07/2022 - 23/072022)*
+##  :arrow_right: *Week 5 (20/02/2023 - 24/02/2023)*
 
-- As the frappe was installed, the futher reading process about the usage of the framework was done. 
-- The LIBRARY MANAGMENT SYSTEM was initialted and the doctypes were created, beside that the Markdown lanuage was also read and the cheatsheets were read to know about the different tags in the later language. 
-- This took us 2 days.
+### JAVASCRIPT – PART 1
 
-
-##  :arrow_right: *DAY 6 (24/07/2022)*
-
-Sunday - Fun Day
-
-
-##  :arrow_right: *DAY 7 (25/07/2022)*
+- INTRODUCTION TO JAVASCRIPT
+- VARIABLES, SCOPING, DATA TYPE
+- STRINGS AND NUMBERS
+- OPERATORS AND LOOPS
+- FUNCTIONS
+- PROJECT 1 – ADD FUNCTIONALITIES TO TO-DO APP
 
 
-- Today i go through the some steps of Library Management and implement in frameframework.
+
+##  :arrow_right: *Week 6 (27/02/2023 - 03/03/2023)*
+
+### JAVASCRIPT – PART 2
+
+- UNDERSTANDING AND WORKING WITH DOM
+- DEVELOPER TOOLS IN BROWSERS
+- JQUERY
+- PROJECT 2 – ADD FUNCTIONALITIES TO BLOG
 
 
-##  :arrow_right: *DAY 8 (26/07/2022)*
 
 
-- Today i go through the library managements features like- Library Membership,Linked Doctypes,Controller validation for membership, Library Transaction, Library Settings and some features of form scripts.  
+##  :arrow_right: *Week 7 (06/03/2023 - 10/03/2023)*
+
+### JAVASCRIPT – PART 3
+
+- PROTOTYPES
+- CLOSURES
+- LOCAL STORAGE
+- AJAX
+- PROJECT 3 – DICE ROLLER GAME USING ANIMATION AND JAVASCRIPT
 
 
-##  :arrow_right: *DAY 9 (27/07/2022)*
+##  :arrow_right: *Week 8 (13/03/2023 - 17/03/2023)*
+
+### JAVASCRIPT – PART 4
+
+ES5 VS ES6 VS ES7
+EVENT LOOP IN JAVASCRIPT
+
+#### Monthly Evaluation - 2
 
 
-- Today i am completing all the steps of Library Management System like- create a doctype, doctype features, controllers methods, types of doctype, form scripts and so on.
-- After complition of Library Mannagement System i can enable all the features of web pages and i can view all information of web pages on the local server.
 
 
 ##  :arrow_right: *DAY 10 (28/07/2022)*
