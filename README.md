@@ -123,8 +123,8 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 
 ### JAVASCRIPT – PART 4
 
-ES5 VS ES6 VS ES7
-EVENT LOOP IN JAVASCRIPT
+- ES5 VS ES6 VS ES7
+- EVENT LOOP IN JAVASCRIPT
 
 
 
