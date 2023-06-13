@@ -47,7 +47,6 @@ All about the six month training of Full Stack Web Development (MERN) at Excelle
 - INLINE VS INTERNAL VS EXTERNAL
 - STYLING
 - CSS DISPLAY
-- PROJECT 1 - TO-DO APP-FRONTEND USING BASIC HTML/CSS
 
 
 ### CSS - PART 2 | Advanced CSS 1
